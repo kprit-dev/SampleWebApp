@@ -1,5 +1,7 @@
 package math;
 
+/*
+ * This class is designed for calculations */
 public class Calculator {
   
  public double add(double a, double b) {
@@ -20,5 +22,5 @@ public class Calculator {
   }
   return a / b;
  }
-  
+ 
 }
